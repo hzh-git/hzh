@@ -26,7 +26,7 @@ Freescale/NXP I.MX Chip image deploy tools.
 # Examples:
 ```
   uuu u-boot.imx            Download u-boot.imx via HID device
-  
+ 
   uuu list.uu               Run all the commands in list.uu
   
   uuu -s                    Enter shell mode. Input command. 
